@@ -1,2 +1,2 @@
 # todo-demo
-todo list
+todo list for daily use
